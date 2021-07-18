@@ -1,4 +1,4 @@
-# Exec_521_01d - 記述中
+# Exec_521_01d  
 ## 訓練校で出た課題「車のテスト」  
 <img src="https://github.com/kimihiro-abe/Car_Test/blob/main/pic_Exec_521_01d.png" width="35%">
 <br>
